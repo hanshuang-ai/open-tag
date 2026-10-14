@@ -1,0 +1,14 @@
+项目分析.md
+  h_b8bf0859f1ca1c 26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "9d98d7b18be270ac62e3c07b30d9e296a01220cd",
+  "prompts": {},
+  "humans": {
+    "h_b8bf0859f1ca1c": {
+      "author": "benliu <benliu@tinnove.com.cn>"
+    }
+  }
+}
