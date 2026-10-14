@@ -1,0 +1,19 @@
+raft对比分析.md
+  s_89063091978e81::t_60f959dfc52b86 1-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "3a6ea71b4dde1b8320096b28ae56f0c0fbd8b748",
+  "prompts": {},
+  "sessions": {
+    "s_89063091978e81": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ec6d3c832ffeE9iVS6jhR5RVOB",
+        "model": "mimo-v2.6-pro"
+      },
+      "human_author": "benliu <benliu@tinnove.com.cn>"
+    }
+  }
+}
